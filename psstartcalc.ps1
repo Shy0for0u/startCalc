@@ -1,1 +1,0 @@
-﻿[System.Diagnostics.Process]::Start("calc.exe").WaitForExit(10000)
